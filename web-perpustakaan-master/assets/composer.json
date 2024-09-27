@@ -1,6 +1,0 @@
-{
-    "require": {
-        "ckeditor/ckeditor": "^4.14",
-        "spipu/html2pdf": "^5.2"
-    }
-}
